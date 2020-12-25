@@ -1,0 +1,9 @@
+# RStudio as Dev Env
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Rendered files
+*.html
